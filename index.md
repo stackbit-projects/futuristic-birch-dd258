@@ -14,6 +14,7 @@ sections:
         url: /features
         style: primary
         has_icon: false
+        icon: envelope
       - label: lorem-ipsum
         url: '#'
         style: primary
