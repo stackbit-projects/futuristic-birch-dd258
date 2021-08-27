@@ -110,7 +110,7 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    background: gray
+    background: white
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     hide_labels: true
