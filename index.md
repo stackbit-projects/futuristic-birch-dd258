@@ -113,7 +113,7 @@ sections:
     background: gray
     form_id: lorem-ipsum
     form_action: lorem-ipsum
-    hide_labels: false
+    hide_labels: true
     form_fields:
       - input_type: text
         name: lorem-ipsum
